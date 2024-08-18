@@ -1,0 +1,14 @@
+.box {
+  width: 100px;
+  height: 150px;
+  padding: 20px;
+  border: 10px red solid;
+}
+
+.box1 {
+  box-sizing: border-box;
+}
+
+.box2 {
+  box-sizing: content-box;
+}
